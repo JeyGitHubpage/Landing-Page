@@ -143,5 +143,6 @@ button {
 .section_4 {
     display: flex;
     flex-direction: column;
-    background-color: #E5E7EB;
+    background-color: white;
 }
+
