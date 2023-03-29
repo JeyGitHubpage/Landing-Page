@@ -150,5 +150,14 @@ button {
     display: flex;
     background-color: #3882F6;
     margin: 150px 300px;
+    justify-content: space-evenly;
+}
+
+.CTA-logo {
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8;
+    padding: 100px 100px 16px;
+    font-weight: 900px;
 }
 
