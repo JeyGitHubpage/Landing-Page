@@ -75,7 +75,7 @@ button {
     padding: 8px 16x;
     color: white;
     border-radius: 8px;
-    background: royalblue;
+    background: #3882F6;
     
 }
 
@@ -144,5 +144,11 @@ button {
     display: flex;
     flex-direction: column;
     background-color: white;
+}
+
+.CTA {
+    display: flex;
+    background-color: #3882F6;
+    margin: 150px 300px;
 }
 
