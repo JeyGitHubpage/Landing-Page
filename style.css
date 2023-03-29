@@ -71,6 +71,7 @@ img {
 }
 
 button {
+    display: flex;
     font-size: 18px;
     padding: 8px 16x;
     color: white;
@@ -149,15 +150,21 @@ button {
 .CTA {
     display: flex;
     background-color: #3882F6;
-    margin: 150px 300px;
-    justify-content: space-evenly;
+    margin: 150px 475px;
+    justify-content: space-between;
 }
 
 .CTA-logo {
     display: flex;
     font-size: 24px;
     color: #F9FAF8;
-    padding: 100px 100px 16px;
+    padding: 50px 125px 16px;
     font-weight: 900px;
+}
+
+.CTASU {
+    color: white;
+    padding: 0 125px 50px;
+
 }
 
