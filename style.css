@@ -164,27 +164,27 @@ button.top:hover {
     justify-content: center;
     width: 1000px;
     margin: 150px 0;
-    justify-content: space-between;
+    justify-content: space-evenly;
     border-radius: 16px;
+    align-items: center;
 }
 
 .CTA-logo {
     display: flex;
     font-size: 24px;
     color: #F9FAF8;
-    padding: 50px 125px 16px;
+    padding: 50px 0 8px;
     font-weight: 900;
 }
 
 .CTASU {
     display: flex;
     color: white;
-    padding: 0 125px 50px;
+    padding: 0 0 50px;
 }
 
 button.bottom {
-    margin: 60px 100px;
-    
+    padding: 7px 37px;
     border-color: white;
 }
 
