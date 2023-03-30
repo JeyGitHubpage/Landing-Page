@@ -155,12 +155,15 @@ button.top:hover {
     display: flex;
     flex-direction: column;
     background-color: white;
+    align-items: center;
 }
 
 .CTA {
     display: flex;
     background-color: #3882F6;
-    margin: 150px 475px;
+    justify-content: center;
+    width: 1000px;
+    margin: 150px 0;
     justify-content: space-between;
     border-radius: 16px;
 }
@@ -181,7 +184,7 @@ button.top:hover {
 
 button.bottom {
     margin: 60px 100px;
-    padding: 0 40px;
+    
     border-color: white;
 }
 
